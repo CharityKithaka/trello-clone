@@ -8,7 +8,7 @@ This is a clone application for trello.
 2. [npm](https://www.npmjs.com/)
 
 ## Steps to run this on your local
-1. Clone the repo 
+1. Clone the repo `git clone https://github.com/CharityKithaka/trello-clone.git`
 2. Run `npm install`
 3. Run `npm start`
 
